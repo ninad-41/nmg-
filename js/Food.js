@@ -1,7 +1,6 @@
 class Food {
     constructor(){
         this.image = loadImage("images/Milk.png");
-        this.image2 = loadImage("images/download.jpg")
         this.lastFed;
         this.foodStock = 20;
     }
@@ -29,7 +28,7 @@ class Food {
     }
 
     display(){
-        background(this.image2);
+        background("green");
 
         var x=80,y=100;
         
