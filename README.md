@@ -1,2 +1,1 @@
-# Project-36-Corrected
-Virtual pet.
+# Virtual-Pet-2.0
